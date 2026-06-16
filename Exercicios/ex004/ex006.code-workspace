@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../ex006"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ex004"
+	}
+}
